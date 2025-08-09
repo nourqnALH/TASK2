@@ -1,1 +1,15 @@
-# TASK2
+#Technical Description:
+
+This model represents a mechanical component shaped like a "U" bracket (yoke) commonly used to secure a rotating shaft or axle. Below are the details based on each image:
+
+ Image 1:
+A side view showing a semi-circular cavity at the base, indicating a possible location for a shaft or bearing installation.
+The vertical arms extend upward with rounded edges.
+
+ Image 2:
+A front view showing a circular hole on each arm of the bracket.
+These holes suggest a shaft passes through to hold a rotating element in place.
+
+ Image 3:
+An angled view combining both the side and front perspectives.
+Provides a 3D understanding, highlighting the symmetry of the arms and the cavity at the base.
